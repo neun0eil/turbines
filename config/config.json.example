@@ -1,0 +1,13 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "turbines",
+    "host": "localhost",
+    "dialect": "mysql",
+    "logging": false,
+    "define": {
+      "timestamps": false
+    }
+  }
+}

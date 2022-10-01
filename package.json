@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "formdata-node": "^5.0.0",
+    "mysql2": "^2.3.3",
+    "node-fetch": "^3.2.10",
+    "sequelize": "^6.23.1",
+    "sequelize-cli": "^6.4.1"
+  }
+}
